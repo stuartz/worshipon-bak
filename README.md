@@ -1,8 +1,11 @@
 # WorshipOn (worshipon)
 
+Saw this hackathon at the last minute and put this together as a starting point last night. Untested.
+
 This project has been initiated following the steps laid out on https://medium.com/quasar-framework/creating-a-quasar-framework-application-with-aws-amplify-services-part-1-4-9a795f38e16d
 
 So not repeating the Amplify steps here. If you want to initiate the amplify build, you will need an AWS account and follow the instructions for initiating amplify.  It will cost you approximately $1/day it running.
+
 
 ## Install the dependencies
 ```bash
