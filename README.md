@@ -1,8 +1,12 @@
 # WorshipOn (worshipon)
+WorshipOn will be a world-wide worship app providing an easy entry for artists to share content that glorifies Jesus Christ in their own languages, and the opportunity for any one to listen and worship Him.Meanwhile, worship leaders can download content to use in worship services.
 
+Eventually, we are looking to have a platform that also enables chats, pod casts, and videos.
+
+# installation
 Saw this hackathon at the last minute and put this together as a starting point last night. Untested.
 
-This project has been initiated following the steps laid out on https://medium.com/quasar-framework/creating-a-quasar-framework-application-with-aws-amplify-services-part-1-4-9a795f38e16d
+This project has been initiated following the same steps laid out on https://medium.com/quasar-framework/creating-a-quasar-framework-application-with-aws-amplify-services-part-1-4-9a795f38e16d
 
 So not repeating the Amplify steps here. If you want to initiate the amplify build, you will need an AWS account and follow the instructions for initiating amplify.  It will cost you approximately $1/day it running.
 
@@ -40,5 +44,6 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
   data scientist for creating song lists from language, genre, favorites, etc.
   marketingcontract documentation for music rights
   block-chain for keeping track of usage of uploads and payments
-  experienced git team managementexperienced project 
-  manager with open source pm app
+  experienced git team management
+  experienced project manager with open source pm app
+  a lawyer for music contract and app usage
