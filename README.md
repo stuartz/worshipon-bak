@@ -38,12 +38,12 @@ amplify publish
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 # Looking for help in the following areas
-  Amplify graphql for backend models
-  Amplify components for front end  
-  Quasar and/or Vue for frontend
-  data scientist for creating song lists from language, genre, favorites, etc.
-  marketingcontract documentation for music rights
-  block-chain for keeping track of usage of uploads and payments
-  experienced git team management
-  experienced project manager with open source pm app
-  a lawyer for music contract and app usage
+  * Amplify graphql for backend models
+  * Amplify components for front end  
+  * Quasar and/or Vue for frontend
+  * data scientist for creating song lists from language, genre, favorites, etc.
+  * marketingcontract documentation for music rights
+  * block-chain for keeping track of usage of uploads and payments
+  * experienced git team management
+  * experienced project manager with open source pm app
+  * a lawyer for music contract and app usage
